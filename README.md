@@ -1,4 +1,4 @@
-# lua-oop
+# Lua-oop
 A simple Lua class template taken from the ancient [lua-users.org](http://lua-users.org)
 
 This is a simplest example of a Lua class using metamethods, letting you
